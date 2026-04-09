@@ -1,55 +1,29 @@
-# Hi, I'm Nikhil 👋
+# Nikhil
 
-B.Tech CSE (AI/ML) student focused on building and understanding machine learning systems from first principles to deployment.
+B.Tech CSE (AI/ML) student focused on machine learning, data science, and applied problem solving.
 
 ---
 
-## 🧠 Focus Areas
+## Core Areas
+- Machine Learning (Supervised Learning, Model Optimization)
 - Natural Language Processing (NLP)
-- Supervised Learning & Model Optimization
-- Data Science & Predictive Modeling
-- Problem-solving with real-world datasets
+- Data Analysis & Predictive Modeling
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**
-- Python, Java, SQL
-
-**Machine Learning**
-- Scikit-learn
-- XGBoost, Random Forest
-- Basic TensorFlow
-
-**Data Tools**
-- Pandas, NumPy
-- Data Cleaning & Feature Engineering
-- Model Evaluation & Tuning
+## Technical Skills
+- Python, Java, SQL  
+- Scikit-learn, XGBoost, Random Forest, TensorFlow (basic)  
+- Pandas, NumPy  
 
 ---
 
-## ⚙️ What I Work On
-- Designing ML pipelines (data → model → evaluation)
-- Improving model performance and interpretability
-- Writing clean, efficient, and testable code
+## Current Focus
+- Advanced NLP and model interpretability  
+- End-to-end ML system design  
 
 ---
 
-## 📈 Currently Improving
-- Advanced NLP techniques
-- End-to-end ML system design
-- Backend integration for ML applications
-
----
-
-## 🎯 Goals
-- Build production-level ML systems
-- Strengthen fundamentals in algorithms and statistics
-- Contribute to meaningful, real-world problems
-
----
-
-## 📫 Connect
-- LinkedIn: www.linkedin.com/in/ml-nikhil
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ml-nikhil  
 - Email: nik84810@gmail.com
