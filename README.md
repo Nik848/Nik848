@@ -1,28 +1,14 @@
 # Hi, I'm Nikhil 👋
 
-B.Tech CSE (AI/ML) student building real-world machine learning systems.
-
-I focus on:
-- NLP & supervised learning
-- Predictive modeling & optimization
-- End-to-end ML projects (data → model → deployment)
+B.Tech CSE (AI/ML) student focused on building and understanding machine learning systems from first principles to deployment.
 
 ---
 
-## 🚀 What I’ve Built
-
-### 🐾 PetGuard (Hackathon Winner)
-- IoT + ML pet safety system with live monitoring
-- Real-time alerts + video integration
-- Built for real-world deployment
-
-### 🚖 Fleet Optimization System
-- Reduced empty cab trips using routing heatmaps
-- Data-driven optimization using ML models
-
-### 🧠 Diabetes Prediction Model
-- Achieved 97%+ accuracy
-- Built using Scikit-learn (Random Forest / XGBoost)
+## 🧠 Focus Areas
+- Natural Language Processing (NLP)
+- Supervised Learning & Model Optimization
+- Data Science & Predictive Modeling
+- Problem-solving with real-world datasets
 
 ---
 
@@ -31,29 +17,36 @@ I focus on:
 **Languages**
 - Python, Java, SQL
 
-**ML / Data**
+**Machine Learning**
 - Scikit-learn
-- Pandas, NumPy
-- Basic TensorFlow
 - XGBoost, Random Forest
+- Basic TensorFlow
 
-**Other**
+**Data Tools**
+- Pandas, NumPy
 - Data Cleaning & Feature Engineering
-- Model Evaluation & Optimization
+- Model Evaluation & Tuning
 
 ---
 
-## 📈 What I'm Working On
-- Improving ML model interpretability
-- Building full-stack ML applications
-- Exploring advanced NLP systems
+## ⚙️ What I Work On
+- Designing ML pipelines (data → model → evaluation)
+- Improving model performance and interpretability
+- Writing clean, efficient, and testable code
 
 ---
 
-## 🎯 Goals (2026)
-- Land strong ML/Data internship
-- Build 3–4 production-level ML projects
-- Contribute to open source
+## 📈 Currently Improving
+- Advanced NLP techniques
+- End-to-end ML system design
+- Backend integration for ML applications
+
+---
+
+## 🎯 Goals
+- Build production-level ML systems
+- Strengthen fundamentals in algorithms and statistics
+- Contribute to meaningful, real-world problems
 
 ---
 
